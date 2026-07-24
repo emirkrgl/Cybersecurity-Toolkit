@@ -1,7 +1,7 @@
-<img width="600" height="600" alt="portScanner_demo" src="https://github.com/user-attachments/assets/efe5ab03-e360-4e87-97ba-18258ff23a71" />
-<img width="600" height="600" alt="netdiscover_demo" src="https://github.com/user-attachments/assets/05c7cabe-a4ff-46fc-b547-0716ffea4952" />
-<img width="600" height="600" alt="dir_bruteforce_demo" src="https://github.com/user-attachments/assets/069d8006-11fb-49bb-8f37-7c556c8e3e27" />
-<img width="600" height="600" alt="dir_bruteForce_demo(2)" src="https://github.com/user-attachments/assets/dda32c95-34ee-4042-8b7e-10d07d66d940" />
+<img width="600" height="400" alt="portScanner_demo" src="https://github.com/user-attachments/assets/efe5ab03-e360-4e87-97ba-18258ff23a71" />
+<img width="600" height="400" alt="netdiscover_demo" src="https://github.com/user-attachments/assets/05c7cabe-a4ff-46fc-b547-0716ffea4952" />
+<img width="600" height="400" alt="dir_bruteforce_demo" src="https://github.com/user-attachments/assets/069d8006-11fb-49bb-8f37-7c556c8e3e27" />
+<img width="600" height="400" alt="dir_bruteForce_demo(2)" src="https://github.com/user-attachments/assets/dda32c95-34ee-4042-8b7e-10d07d66d940" />
 # Cybersecurity Toolkit
 
 A small collection of Python security tools, built from scratch as a hands-on way to learn networking, concurrency, and web fundamentals — one project at a time, one bug at a time.
