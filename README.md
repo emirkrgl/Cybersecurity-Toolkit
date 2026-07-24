@@ -20,25 +20,6 @@ A small collection of Python security tools, built from scratch as a hands-on wa
 
 ---
 
-## 📸 Screenshots
-
-
-
-### netdiscover.py
-![netdiscover demo](docs/netdiscover_demo.png)
-
-### portScanner.py
-![portScanner demo](docs/portScanner_demo.png)
-
-### dir_bruteForce.py
-![dir_bruteForce demo](docs/dir_bruteforce_demo.png)
-
-### dir_bruteForce.py
-![dir_bruteForce demo](docs/dir_bruteforce_demo(2).png)
-
-
----
-
 ## netdiscover.py
 
 A simple network discovery tool. It sends ARP broadcast requests across a target IP range and lists every device that responds, along with its IP address, MAC address, and (when resolvable) hostname.
